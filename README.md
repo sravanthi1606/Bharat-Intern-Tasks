@@ -1,3 +1,3 @@
 # Bharat-Intern-Tasks
-Netflix home page using html,css.
+Task3 - Netflix home page using html,css.
 
